@@ -45,11 +45,11 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "1 dividido po 1=",
+        enunciado: "1 dividido por 1=",
         alternativas: [
             {
                 texto: "0,5",
-                afirmacao: "errou po 0,5"
+                afirmacao: "errou por 0,5"
             },
             {
                 texto: "1",
